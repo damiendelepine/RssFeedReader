@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSS Feed Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="news_title_label">Gérard Collomb (PS) propose une période d\'essai de deux à trois ans pour les CDI</string>
+    <string name="news_pubdate_label">Wed, 19 Nov 2014 14:44:19 GMT</string>
+    <string name="news_description_label">Le conseil de l\'ordre des médecins s\'est « félicité » de la décision de la ministre et attend une concertation « la plus large et la plus ouverte possible ».</string>
+
+    <string name="connection_error">Problème de connexion réseau.</string>
+    <string name="xml_error">Le flux n\'a pas pu être analysé.</string>
+
+</resources>
